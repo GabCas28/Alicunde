@@ -1,0 +1,32 @@
+/*  Gif styling */
+
+.success-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+}
+.gif {
+  min-width: 60%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/*  Logout button */
+
+.logout-wrapper {
+  position: absolute;
+  right: 0;
+}
+#logout {
+  background-color: rgb(71, 71, 71);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  margin: 16px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
