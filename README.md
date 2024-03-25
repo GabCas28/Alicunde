@@ -11,3 +11,7 @@ Run `npm start` to start application on a dev server.
 ## How to test app
 
 Run `ng test` to run a battery of tests on a Karma server.
+
+## How to open on StackBlitz
+
+Stackblitz can be launched via [Stackblitz link](https://stackblitz.com/~/github.com/GabCas28/Alicunde).
